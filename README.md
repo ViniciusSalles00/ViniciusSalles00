@@ -1,4 +1,4 @@
-### Oii meu nome é Vinícius e sou desenvolvedor front-end!
+### Oii, meu nome é Vinícius e sou desenvolvedor front-end!
 
 
 
